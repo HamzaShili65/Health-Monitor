@@ -44,6 +44,10 @@ Operations:
   - subtraction
   - multiplication
   - division
+  - right shift
+  - left shift
+  - modulo
+  -exponantiation
 
 Error conditions:
   - Invalid operator --> Program should exit
@@ -86,6 +90,10 @@ def get_user_input():
     
     try:
         input = raw_input
+    except NameError:
+        pass
+    
+    try:
         in1 = float(input("Enter first number:  "))
         in2 = float(input("Enter second number: "))
         op  = input("Enter operator (+, -, *, /, right_shift, left_shift, mod, expo): ")
