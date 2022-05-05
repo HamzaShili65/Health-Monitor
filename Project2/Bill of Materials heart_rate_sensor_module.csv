@@ -1,0 +1,12 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"DESCRIPTION";"MF";"MP";"PACKAGE";"PRICE";"PURCHASE-URL";
+"1";"0.1";"R_R0805";"R0805";"R4";"RESISTOR, American symbol";"";"";"";"";"";"";"";
+"1";"0.1u";"C_C0603";"C0603";"C2";"Capacitor SMD.";"";"";"";"";"";"";"";
+"2";"10k";"R_R0603";"R0603";"R1, R3";"RESISTOR, American symbol";"";"";"";"";"";"";"";
+"1";"10u";"C_C0603";"C0603";"C4";"Capacitor SMD.";"";"";"";"";"";"";"";
+"2";"1u";"C_C0603";"C0603";"C1, C3";"Capacitor SMD.";"";"";"";"";"";"";"";
+"1";"4.7k";"R_R0603";"R0603";"R2";"RESISTOR, American symbol";"";"";"";"";"";"";"";
+"1";"BME280";"BME280";"PSON65P250X250X100-8N";"U1";"DIGITAL HUMIDITY, PRESSURE AND TEMPERATURE SENSOR* Digital interface I²C (up to 3.4 MHz) and SPI (3 and 4 wire, up to 10 MHz)* Supply voltage VDD main supply voltage range: 1.71 V to 3.6 V*VDDIO interface voltage range: 1.2 V to 3.6 V";"In Stock";" Board Mount Humidity Sensors MEMS humidity, pressure and temperature sensor ";"Bosch";"BME280";"LGA-8 Bosch";"None";"https://pricing.snapeda.com/search/part/BME280/?ref=eda";
+"6";"FIDUCIAL";"FIDUCIAL";"FIDUCIAL_40MIL";"FUD1, FUD2, FUD3, FUD4, FUD5, FUD6";"";"";"";"";"";"";"";"";
+"1";"MAX30100EFDT";"MAX30100EFDT";"LGA14R80P2X7_560X280X130";"U2";"Pulse Oximeter and Heart-Rate Sensor IC 14-Pin OLGA   Check availability";"In Stock";" Biometric Sensors Integrated Optical Sensor ";"Maxim Integrated";"MAX30100EFD";"None";"None";"https://pricing.snapeda.com/search/part/MAX30100EFD/?ref=eda";
+"1";"POCKETBEAGLE";"POCKETBEAGLE";"POCKETBEAGLE";"U$1";"Pocket Beagle board";"";"";"";"";"";"";"";
+"1";"SPI_SCREEN_TFT";"SPI_SCREEN_TFT";"SPI_SREEN_TFT";"SPI_SCREEN";"Adafruit SPI Screen. Data sheet: https://learn.adafruit.com/adafruit-2-8-and-3-2-color-tft-touchscreen-breakout-v2/downloads";"";"";"";"";"";"";"";
