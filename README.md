@@ -1,4 +1,5 @@
-<h1> Heart Rate & Temperature Sensing Module
+<h1> Heart Rate & Temperature Sensing Module</h1><br>
+
 <p> A heart rate sensor that measures BPM and SPO2 and a temperature and humidity sensor. All data are displayed on the TFT touchscreen.</p>
 
 **Background and Motivation:** <br>
